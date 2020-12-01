@@ -1,0 +1,30 @@
+table{
+    border: none;
+    border-spacing: 0px;
+}
+td{
+    border: none;
+}
+#middlebody{
+    background-color: red;
+}
+body{
+    background-color: paleturquoise;
+}
+.myClass{
+    background-color: purple;
+}
+.bottomdesign{
+    background-color: rosybrown;
+}
+
+.lemon{
+    color: white;
+}
+.headingTop{
+    background-color: #222;
+    color: #fff;
+}
+.logoArea{
+    background-color: blue;
+}

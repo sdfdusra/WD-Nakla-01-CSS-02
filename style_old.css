@@ -1,0 +1,32 @@
+/* 
+body{
+    background-color: #0ff;
+    background-image: url('images/shamim.jpg');
+    background-size: 400px 200px;
+    background-position: 20px 200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+*/
+
+
+body{
+    background: url('images/shamim.jpg') no-repeat fixed  20px 100px/400px 200px #00ffff;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 100px;
+    /* border: 5px solid red; */
+    /* border-color: red;
+    border-style: solid;
+    border-width: 5px; */
+    border-top: 5px solid red;
+    border-left: 2px dotted white;
+    border-bottom: 10px double yellow;
+    border-right: 5px solid orange;
+}
+
